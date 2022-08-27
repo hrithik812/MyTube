@@ -1,0 +1,16 @@
+.video-list{
+    display: flex;
+    cursor:pointer;
+}
+.video-list:hover{
+    background-color: #f5f5f5;
+}
+
+/* li{
+display: flex;
+cursor:pointer
+}
+
+li:hover{
+background-color:#eee;
+} */
